@@ -1,0 +1,22 @@
+{
+  "name": "fly.ioapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odorizzi1/fly.ioAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odorizzi1/fly.ioAPI/issues"
+  },
+  "homepage": "https://github.com/Odorizzi1/fly.ioAPI#readme",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
+}
